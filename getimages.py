@@ -6,7 +6,7 @@ import requests
 import  json
 import traceback
 
-repo_ip = '10.10.229.43'
+repo_ip = '10.10.9.3'
 repo_port = 5000
 
 def getImagesname(repo_ip,repo_port):
